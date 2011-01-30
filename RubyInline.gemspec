@@ -1,6 +1,3 @@
-(in /Users/kai/tmp/rubyinline)
-# -*- encoding: utf-8 -*-
-
 Gem::Specification.new do |s|
   s.name = %q{RubyInline}
   s.version = "3.8.6"
